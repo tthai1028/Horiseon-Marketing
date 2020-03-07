@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* I fixed some of the HTML targets in order to make everything work */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -66,6 +67,7 @@ p {
     margin-left: 25px;
 }
 
+/* Since a lot of the styling was repetitive, I just combined them all under 1 HTML tag and did the same for the subsequent CSS */
 main {
     width: 75%;
     display: inline-block;
